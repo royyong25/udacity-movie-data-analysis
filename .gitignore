@@ -1,0 +1,7 @@
+.github/**
+*.csv
+*.zip
+Movie Data Analysis.html
+Movie Data Analysis.ipynb
+.DS_Store
+.ipynb_checkpoints
