@@ -7,7 +7,7 @@ Nov 19, 2021
 Movie Data Analysis
 
 ### Description
-For this project, I conducted my own analysis on TMDB movi data and create a report to share that document the process and findings. I defined questions and then used pandas and NumPy to answer the questions I am most interested in, and created a report sharing the conclusions.
+For this project, I conducted my own analysis on TMDB movie data and create a report to share that document the process and findings. I defined questions and then used pandas and NumPy to answer the questions I am most interested in, and created a report sharing the conclusions.
 
 My report structure
 
