@@ -17,7 +17,9 @@ My report structure
 -Conclusions
 
 ### Files used
-TMDb movie data
+-Movie Data Analysis_revised.ipynb (Jupyter)
+-Movie Data Analysis_revised.html (Jupyter)
+-Raw data
 https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd1c4c_tmdb-movies/tmdb-movies.csv
 
 ### Credits
