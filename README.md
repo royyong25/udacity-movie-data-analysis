@@ -1,4 +1,6 @@
->**Note**: This is a project submission applied for Udacity Data Analyst Nanodegree.
+### Note
+This is a project submission applied for
+<a href="https://www.udacity.com/course/data-analyst-nanodegree--nd002" target="_blank">Udacity Data Analyst Nanodegree</a><br />
 
 ### Date created
 Nov 19, 2021
@@ -10,7 +12,8 @@ Movie Data Analysis
 For this project, I conducted my own analysis on TMDB movie data and create a report to share that document the process and findings. I defined questions and then used pandas and NumPy to answer the questions I am most interested in, and created a report sharing the conclusions.
 
 My report structure
-<a href="https://htmlpreview.github.io/?https://github.com/royyong25/udacity-movie-data-analysis/blob/master/Movie%20Data%20Analysis_revised.html" target="_blank">View Html Report</a>
+<a href="https://htmlpreview.github.io/?https://github.com/royyong25/udacity-movie-data-analysis/blob/master/Movie%20Data%20Analysis_revised.html" target="_blank">View Html Report</a><br />
+
 -Data Wrangling <br />
 -Data Cleaning <br />
 -Exploratory Data Analysis <br />
