@@ -10,16 +10,16 @@ Movie Data Analysis
 For this project, I conducted my own analysis on TMDB movie data and create a report to share that document the process and findings. I defined questions and then used pandas and NumPy to answer the questions I am most interested in, and created a report sharing the conclusions.
 
 My report structure
-
--Data Wrangling
--Data Cleaning
--Exploratory Data Analysis
--Conclusions
+<a href="https://htmlpreview.github.io/?https://github.com/royyong25/udacity-movie-data-analysis/blob/master/Movie%20Data%20Analysis_revised.html" target="_blank">View Html Report</a>
+-Data Wrangling <br />
+-Data Cleaning <br />
+-Exploratory Data Analysis <br />
+-Conclusions <br />
 
 ### Files used
--Movie Data Analysis_revised.ipynb (Jupyter)
--Movie Data Analysis_revised.html (Jupyter)
--Raw data
+-Movie Data Analysis_revised.ipynb (Jupyter) <br />
+-Movie Data Analysis_revised.html (Jupyter) <br />
+-Raw data <br />
 https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd1c4c_tmdb-movies/tmdb-movies.csv
 
 ### Credits
